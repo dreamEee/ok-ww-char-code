@@ -1447,23 +1447,23 @@
           "modifiedAt": "2026-11-19T17:26:15.000Z"
         },
         {
-          "filename": "Hsin_Lily_Suoming_楽山_轮椅_1.0.2.zip",
-          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_%E8%BD%AE%E6%A4%85_1.0.2.zip",
-          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_%E8%BD%AE%E6%A4%85_1.0.2.zip",
+          "filename": "Hsin_Lily_Suoming_楽山_轮椅_1.0.3.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_%E8%BD%AE%E6%A4%85_1.0.3.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_%E8%BD%AE%E6%A4%85_1.0.3.zip",
           "name": "Hsin_Lily_Suoming",
-          "description": "心锁莉轮椅轴\n样本：61心 01锁 00莉\n共效：心125 锁130 莉莉260\n位置：一号位莉莉 二号位锁瞑 三号位心\n场景：【矩阵/深塔】\n容错率高，没什么好说的，基础队伍 比较稳定\n\n1.0.2 更新：\n· 兼容原版 OKWW（修原版里心 R1 后不切锁暝）\n· 心插段改回 2A+E，应世心没满就多补一下 A 再 E\n· 循环轴心闪避改成 W+A 斜前闪\n· 莉莉 R 好了直接放，不等图标亮",
+          "description": "心锁莉轮椅轴\n样本：61心 01锁 00莉\n共效：心125 锁130 莉莉260\n位置：一号位莉莉 二号位锁瞑 三号位心\n场景：【矩阵/深塔】\n容错率高，没什么好说的，基础队伍 比较稳定\n\n1.0.3 更新：\n· 莉莉、锁瞑放完 Q 马上接下一招（修 1080p 下莉莉终章后 R 偶尔晚 1 秒）\n\n1.0.2 更新：\n· 兼容原版 OKWW（修原版里心 R1 后不切锁暝）\n· 心插段改回 2A+E，应世心没满就多补一下 A 再 E\n· 循环轴心闪避改成 W+A 斜前闪\n· 莉莉 R 好了直接放，不等图标亮",
           "author": "楽山",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "team": "Hsin, Lily, Suoming",
           "members": [
             "Hsin",
             "Lily",
             "Suoming"
           ],
-          "size": 49234,
-          "sizeFormatted": "48.08 KB",
-          "timestamp": 1795229942,
-          "modifiedAt": "2026-11-21T02:59:02.000Z"
+          "size": 49629,
+          "sizeFormatted": "48.47 KB",
+          "timestamp": 1795244549,
+          "modifiedAt": "2026-11-21T07:02:29.000Z"
         }
       ]
     },
