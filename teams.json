@@ -3,7 +3,7 @@
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
   "totalTeams": 50,
-  "totalCodes": 70,
+  "totalCodes": 71,
   "teams": [
     {
       "team": "Baizhi, Phrolova, Verina",
@@ -1424,7 +1424,7 @@
         "Lily",
         "Suoming"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Hsin_Lily_Suoming.json",
       "codes": [
         {
@@ -1445,6 +1445,25 @@
           "sizeFormatted": "60.98 KB",
           "timestamp": 1795109175,
           "modifiedAt": "2026-11-19T17:26:15.000Z"
+        },
+        {
+          "filename": "Hsin_Lily_Suoming_楽山_轮椅_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_%E8%BD%AE%E6%A4%85_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_%E8%BD%AE%E6%A4%85_1.0.0.zip",
+          "name": "Hsin_Lily_Suoming",
+          "description": "心锁莉轮椅轴\n样本：61心 01锁 00莉\n共效：心125 锁130 莉莉260\n位置：一号位莉莉 二号位锁瞑 三号位心\n场景：【矩阵/深塔】\n容错率高，没什么好说的，基础队伍 比较稳定",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Hsin, Lily, Suoming",
+          "members": [
+            "Hsin",
+            "Lily",
+            "Suoming"
+          ],
+          "size": 46331,
+          "sizeFormatted": "45.25 KB",
+          "timestamp": 1795226297,
+          "modifiedAt": "2026-11-21T01:58:17.000Z"
         }
       ]
     },
