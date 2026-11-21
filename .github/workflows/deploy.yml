@@ -1,4 +1,4 @@
-name: Generate Static Pages and Deploy
+name: Generate Team Index
 
 on:
   push:
@@ -12,22 +12,17 @@ on:
       - '.github/workflows/**'
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages and git push
+# 只需要 git push 生成的索引(coco-ww 工坊直接读仓库里的 teams.json 和 codes/, 不用 GitHub Pages)
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
-# Allow one concurrent deployment
+# 同一时间只跑一个; 不取消正在跑的(取消在 push 一半会丢索引提交), 后来的排队
 concurrency:
-  group: "pages"
-  cancel-in-progress: true
+  group: "team-index"
+  cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build-index:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -68,14 +63,3 @@ jobs:
             git push origin HEAD:main
           fi
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
