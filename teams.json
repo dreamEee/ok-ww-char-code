@@ -3,7 +3,7 @@
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
   "totalTeams": 50,
-  "totalCodes": 72,
+  "totalCodes": 71,
   "teams": [
     {
       "team": "Baizhi, Phrolova, Verina",
@@ -230,7 +230,7 @@
         "Lynae",
         "Mornye"
       ],
-      "totalCodes": 5,
+      "totalCodes": 4,
       "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Aemeath_Lynae_Mornye.json",
       "codes": [
         {
@@ -289,25 +289,6 @@
           "sizeFormatted": "114.94 KB",
           "timestamp": 1791762694,
           "modifiedAt": "2026-10-11T23:51:34.000Z"
-        },
-        {
-          "filename": "Aemeath_Lynae_Mornye_楽山_3.1.0.zip",
-          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Lynae_Mornye_%E6%A5%BD%E5%B1%B1_3.1.0.zip",
-          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Lynae_Mornye_%E6%A5%BD%E5%B1%B1_3.1.0.zip",
-          "name": "Aemeath_Lynae_Mornye",
-          "description": "爱琳莫进阶轮椅轴优化版\n样本：61爱00琳11莫\n共效：爱弥斯125 琳奈140 莫宁260\n位置：一号位爱弥斯/莫宁 二号位琳奈 三号位莫宁/爱弥斯\n定位：【矩阵/深塔/莫宁起手时可以打海墟上半】\n实机已跑通，在原有作者的基础上进行了识别和操作上的优化，复现难度低，矩阵深塔最好小爱起手，海墟上半莫宁起手应该也是可以打的。\n修复了莫宁可能R的CD未好，导致流程错误的问题",
-          "author": "楽山",
-          "version": "3.1.0",
-          "team": "Aemeath, Lynae, Mornye",
-          "members": [
-            "Aemeath",
-            "Lynae",
-            "Mornye"
-          ],
-          "size": 10944,
-          "sizeFormatted": "10.69 KB",
-          "timestamp": 1793211040,
-          "modifiedAt": "2026-10-28T18:10:40.000Z"
         },
         {
           "filename": "Aemeath_Lynae_Mornye_楽山_3.2.0.zip",
